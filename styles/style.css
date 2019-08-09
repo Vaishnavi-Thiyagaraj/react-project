@@ -1,0 +1,14 @@
+.task {
+    height : 5em;
+    width : 5em;
+    border : solid black 1px;
+    border-radius: 50%;
+    padding : 12px;
+    margin : 2px;
+}
+.task-done {
+    background-color: aqua;
+}
+.count {
+    font-weight: 400;
+}
